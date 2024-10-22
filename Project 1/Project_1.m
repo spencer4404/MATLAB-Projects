@@ -2,12 +2,9 @@
 % 10/24/2023
 % ECE 202 Project 1: Power Series Expansion of Acos(wt)
 
-% PHASE 2 
-
 clear
 
-% ----------- 
-
+% -----------
 % Create n values for non-zero coefficients
 n = 0:2:10;
 
@@ -32,7 +29,7 @@ f4 = f3 + a_n(4) * ts.^6;
 f5 = f4 + a_n(5) * ts.^8;
 f6 = f5 + a_n(6) * ts.^10;
 
-% Plot 
+% Plot
 figure('Position', [200,200,1400,750])
 hold on;
 plot([0, 500], [0,0], 'k', 'LineWidth', 1) % Horizontal axis line
