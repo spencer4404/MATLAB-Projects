@@ -1,7 +1,6 @@
-# ECE-202
+# Collection of all the MATLAB excersizes and projects I worked on during the Fall 2024 semester
 
-This repository is a collection of all the MATLAB excersizes and projects I worked on during the Fall 2023 semester
-It consists of 8 excersizes and 2 bigger projects
+8 excersizes and 2 bigger projects
 
 Excersize 1: Find final velocities of two carts that collide elastically then check the conservation of momentum and energy
 
